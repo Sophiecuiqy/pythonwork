@@ -1,0 +1,6 @@
+利用 anaconda  Spyder 写代码
+科学计算的一些类就可以直接利用
+遇到的问题汇总：
+1.括号是中文的时候回报错
+2.return没有回到标齐的话结果会错
+3.log函数需要导入math包from math import log
